@@ -5,3 +5,5 @@ videos
 .gradio
 weights/*
 __pycache__
+config.bat
+node_modules
